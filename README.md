@@ -7,6 +7,11 @@ A powerful, free, and fast multilingual customer support system that translates 
 ![Groq](https://img.shields.io/badge/Powered%20by-Groq%20API-orange.svg)
 
 ---
+## 🎥 Demo Video
+
+[![Demo Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://youtu.be/zIJRWqamdbo)
+
+**Watch the demo:** [Real-Time Multilingual Query Handler in Action](https://youtu.be/zIJRWqamdbo)
 
 ## ✨ Features
 
