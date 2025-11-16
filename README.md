@@ -9,7 +9,7 @@ A powerful, free, and fast multilingual customer support system that translates 
 ---
 ## 🎥 Demo Video
 
-**Watch the demo:** [Real-Time Multilingual Query Handler in Action](https://youtu.be/zIJRWqamdbo)
+**Watch the demo:** [Real-Time Multilingual Query Handler in Action](https://youtu.be/rLzNOyQ2ReE)
 
 ## ✨ Features
 
