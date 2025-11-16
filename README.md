@@ -28,6 +28,10 @@ A powerful, free, and fast multilingual customer support system that translates 
 ### Prerequisites
 
 ```bash
+pip install -r requirements.txt
+```
+or install manually:
+```bash
 pip install requests langdetect
 ```
 
